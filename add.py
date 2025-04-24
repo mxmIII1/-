@@ -23,7 +23,7 @@ def login():
     return None
 
 if login():
-    st.title("Просте веб-застосунок на Streamlit")
+    st.title("Простий веб-застосунок на Streamlit")
 
     st.subheader("Оберіть період:")
 
